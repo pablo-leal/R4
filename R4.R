@@ -10,7 +10,7 @@ library(readr)
 library(tm)
 
 
-setwd("C:\\Data\\Mendoza\\2018\\Mod 3\\MBA_UDA\\LECTURES\\Lecture 9")
+setwd("Users/pabloleal...") #add your location
 
 #  We create functions that are specific to tweets.  These functions are very helpful to
 #  use in many different problems.
